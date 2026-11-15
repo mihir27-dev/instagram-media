@@ -1,0 +1,37 @@
+[
+ {
+  "out": "bg/2026-11-16-0800/r01.jpg",
+  "prompt": "an ancient Greek merchant ship breaking apart in a violent storm at sea at night, lightning, enormous waves",
+  "w": 1024,
+  "h": 1024,
+  "seed": 200
+ },
+ {
+  "out": "bg/2026-11-16-0800/r02.jpg",
+  "prompt": "ancient Athens at dusk seen from a road, the Acropolis glowing on the hill, a lone traveller in a cloak walking towards the city",
+  "w": 1024,
+  "h": 1024,
+  "seed": 201
+ },
+ {
+  "out": "bg/2026-11-16-0800/r03.jpg",
+  "prompt": "an ancient bookshop with scrolls on wooden shelves, oil lamp light, a man in a simple tunic reading a scroll",
+  "w": 1024,
+  "h": 1024,
+  "seed": 202
+ },
+ {
+  "out": "bg/2026-11-16-0800/r04.jpg",
+  "prompt": "a long painted colonnade in ancient Athens at evening, a small crowd gathered listening to a bearded teacher",
+  "w": 1024,
+  "h": 1024,
+  "seed": 203
+ },
+ {
+  "out": "bg/2026-11-16-0800/r05.jpg",
+  "prompt": "a calm sea at dawn, a single ship on the horizon, golden light breaking through the clouds",
+  "w": 1024,
+  "h": 1024,
+  "seed": 204
+ }
+]
