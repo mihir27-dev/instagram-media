@@ -1,0 +1,42 @@
+[
+ {
+  "out": "bg/2026-11-16-1400/r01.jpg",
+  "prompt": "a wooden baseball bat and a white ball resting on a table under a single dramatic spotlight, dark background",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-16-1400/r02.jpg",
+  "prompt": "a pair of old brass balance scales in a dark room, one pan lower than the other, a beam of light from above",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-16-1400/r03.jpg",
+  "prompt": "a crowd of students in a grand old lecture hall seen from behind, warm lamps, tall arched windows at night",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-16-1400/r04.jpg",
+  "prompt": "a glowing human brain made of fine threads of light floating in a vast dark starry space",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-16-1400/r05.jpg",
+  "prompt": "a single brass desk lamp lighting a closed notebook and a pencil, a window with a night city behind",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ }
+]

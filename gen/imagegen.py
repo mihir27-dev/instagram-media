@@ -34,9 +34,8 @@ def grade(im, w, h, look="night"):
     from PIL import Image, ImageOps
     import numpy as np
     im = im.convert("RGB")
-    if look == "ink":
-        m = int(min(im.size) * 0.06)
-        im = im.crop((m, m, im.width - m, im.height - m))
+    m = int(min(im.size) * 0.07)        # models sign their pictures in a corner; trim every margin
+    im = im.crop((m, m, im.width - m, im.height - m))
     im = ImageOps.fit(im, (w, h), Image.LANCZOS)
     g = np.asarray(ImageOps.grayscale(im), dtype=np.float32) / 255.0
     g = np.clip((g - 0.04) / 0.92, 0, 1) ** 1.15

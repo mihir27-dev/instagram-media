@@ -1,0 +1,42 @@
+[
+ {
+  "out": "bg/2026-11-15-2100/r01.jpg",
+  "prompt": "a single empty wooden chair in the middle of a vast bare room, one hanging lamp, tall windows with a starry sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-15-2100/r02.jpg",
+  "prompt": "a small vintage metal box with one glowing round button on a table in a dark old laboratory, cables, a dial",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-15-2100/r03.jpg",
+  "prompt": "a grand old university laboratory at night, wooden benches, brass instruments, tall arched windows and moonlight",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-15-2100/r04.jpg",
+  "prompt": "a person seen from behind sitting calmly before an enormous window looking out at a vast starry sky over a sleeping city",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-15-2100/r05.jpg",
+  "prompt": "a smartphone lying face down on a wooden table beside a cup of tea, warm lamp light, a window full of stars",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ }
+]
