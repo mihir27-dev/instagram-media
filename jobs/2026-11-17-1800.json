@@ -9,10 +9,10 @@
  },
  {
   "out": "bg/2026-11-17-1800/02.jpg",
-  "prompt": "a person seen from behind at a desk at night with a blank notebook and a pencil, a desk lamp, city lights through the window",
+  "prompt": "a blank open notebook and a pencil on a wooden desk at night under a desk lamp, a window with distant city lights behind, no people, no cup",
   "w": 1080,
   "h": 1350,
-  "seed": 301,
+  "seed": 4301,
   "look": "night"
  },
  {
@@ -25,10 +25,10 @@
  },
  {
   "out": "bg/2026-11-17-1800/04.jpg",
-  "prompt": "a helicopter resting on a rooftop landing pad at dusk, a city skyline behind, dramatic clouds",
+  "prompt": "the dark silhouette of a helicopter flying in front of a huge full moon above a sea of clouds, plain silhouette",
   "w": 1080,
   "h": 1350,
-  "seed": 303,
+  "seed": 4303,
   "look": "night"
  },
  {
@@ -49,10 +49,10 @@
  },
  {
   "out": "bg/2026-11-17-1800/07.jpg",
-  "prompt": "an open pocket watch showing its tiny gears and springs, resting on dark cloth, soft golden light",
+  "prompt": "the inside of a mechanical clockwork seen very close, many interlocking brass gears and springs filling the frame, soft golden light, no dial, no numbers",
   "w": 1080,
   "h": 1350,
-  "seed": 306,
+  "seed": 4306,
   "look": "night"
  },
  {

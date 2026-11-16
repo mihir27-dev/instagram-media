@@ -1,10 +1,10 @@
 [
  {
   "out": "bg/2026-11-17-2100/r01.jpg",
-  "prompt": "an ancient Greek teacher in a simple cloak seated before a small group of students in a stone courtyard at dusk, oil lamps, seen from a distance",
+  "prompt": "seen from far behind, a robed teacher standing before a small group of seated students in an ancient stone courtyard at dusk, tall columns, oil lamps, small figures with their backs to the viewer",
   "w": 1024,
   "h": 1024,
-  "seed": 300,
+  "seed": 4300,
   "look": "night"
  },
  {
@@ -17,10 +17,10 @@
  },
  {
   "out": "bg/2026-11-17-2100/r03.jpg",
-  "prompt": "a hospital brain scanner in a dim room, a soft glow from the round opening of the machine, empty, no people",
+  "prompt": "a large white ring-shaped medical scanner with a narrow bed in an empty dim hospital room, soft light glowing from inside the ring, bare walls, no screens, no people",
   "w": 1024,
   "h": 1024,
-  "seed": 302,
+  "seed": 4302,
   "look": "night"
  },
  {
