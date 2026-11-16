@@ -1,0 +1,74 @@
+[
+ {
+  "out": "bg/2026-11-17-1100/01.jpg",
+  "prompt": "a lone runner in a short tunic on a long dusty road through ancient Greek hills at dawn, wide sky, golden light on the horizon",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1100/02.jpg",
+  "prompt": "ancient Athens at dusk seen from a hillside road, a temple glowing on the hill, a lone traveller in a cloak walking towards the city",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1100/03.jpg",
+  "prompt": "an old bearded Greek teacher and a young student talking under a stone colonnade at evening, oil lamps, seen from a distance",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1100/04.jpg",
+  "prompt": "a robed scholar writing at a wooden table between towering piles of rolled scrolls, a single oil lamp, night",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1100/05.jpg",
+  "prompt": "an ancient Greek theatre at night seen from the top rows, empty stone seats, a single torch burning on the stage, starry sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1100/06.jpg",
+  "prompt": "a long colonnade of tall marble columns in ancient Athens, golden evening light streaming between the columns, a few small robed figures",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1100/07.jpg",
+  "prompt": "a small donkey standing beside a basket of figs in a Greek courtyard, an olive tree, warm low sunlight",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1100/08.jpg",
+  "prompt": "the great stone foundations and columns of an ancient building at sunrise, light breaking through clouds, wide sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1100/09.jpg",
+  "prompt": "a calm sea at sunrise seen between marble columns, a stone bench in the foreground, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ }
+]

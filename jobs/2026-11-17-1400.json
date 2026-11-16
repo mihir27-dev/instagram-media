@@ -1,0 +1,50 @@
+[
+ {
+  "out": "bg/2026-11-17-1400/r01.jpg",
+  "prompt": "a plain paper envelope lying on a stone bench on a university campus at dawn, autumn leaves, long shadows, old buildings behind",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1400/r02.jpg",
+  "prompt": "a single coffee cup on a small table by a cafe window at evening, rain on the glass, city lights outside, an empty chair",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1400/r03.jpg",
+  "prompt": "a small wrapped gift box with a ribbon on a wooden doorstep at dusk, warm light spilling from the open door",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1400/r04.jpg",
+  "prompt": "two friends seen from behind sitting on a hilltop watching a wide glowing sunset over a city",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1400/r05.jpg",
+  "prompt": "a crowd of people crossing a wide city square at dusk seen from above, street lamps coming on",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1400/r06.jpg",
+  "prompt": "a quiet street at night with one bright shop window, a lone walker carrying a small parcel, light breaking through clouds above the rooftops",
+  "w": 1024,
+  "h": 1024,
+  "seed": 305,
+  "look": "night"
+ }
+]

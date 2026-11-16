@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-17-1800/01.jpg",
+  "prompt": "a dark jacket with a long metal zip hanging on the back of a wooden chair, lit by one warm lamp, dark room",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1800/02.jpg",
+  "prompt": "a person seen from behind at a desk at night with a blank notebook and a pencil, a desk lamp, city lights through the window",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1800/03.jpg",
+  "prompt": "a calm mountain lake at night reflecting the stars, a small wooden jetty reaching out over deep dark water",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1800/04.jpg",
+  "prompt": "a helicopter resting on a rooftop landing pad at dusk, a city skyline behind, dramatic clouds",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1800/05.jpg",
+  "prompt": "an old brass door lock taken apart on a workbench, small springs and pins laid out in a row, one work lamp",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1800/06.jpg",
+  "prompt": "an old globe on a library table beside a stack of books, tall shelves in shadow, one reading lamp",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1800/07.jpg",
+  "prompt": "an open pocket watch showing its tiny gears and springs, resting on dark cloth, soft golden light",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1800/08.jpg",
+  "prompt": "morning fog lifting from a wide valley, light breaking through clouds, a lone walker on a ridge path",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1800/09.jpg",
+  "prompt": "two friends talking on a park bench under a street lamp at night, seen from behind, trees and a quiet path",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-1800/10.jpg",
+  "prompt": "a wide starry sky over a quiet town at night, one lit window, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]

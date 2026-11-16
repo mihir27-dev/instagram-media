@@ -1,0 +1,42 @@
+[
+ {
+  "out": "bg/2026-11-17-2100/r01.jpg",
+  "prompt": "an ancient Greek teacher in a simple cloak seated before a small group of students in a stone courtyard at dusk, oil lamps, seen from a distance",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-2100/r02.jpg",
+  "prompt": "a towering storm cloud looming over a calm sea, a small robed figure standing on the shore looking up at it, light breaking through the cloud",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-2100/r03.jpg",
+  "prompt": "a hospital brain scanner in a dim room, a soft glow from the round opening of the machine, empty, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-2100/r04.jpg",
+  "prompt": "a glowing human brain made of fine threads of light floating in dark space, one small region glowing brighter than the rest",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-17-2100/r05.jpg",
+  "prompt": "a robed figure standing calm on a cliff as storm clouds part and light breaks over a wide sea",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ }
+]
