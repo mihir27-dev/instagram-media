@@ -17,10 +17,10 @@
  },
  {
   "out": "bg/2026-11-17-0800/r03.jpg",
-  "prompt": "an empty old lecture hall at dusk, rows of wooden benches, tall arched windows, bare walls, a brass stopwatch on a table in the foreground, one warm lamp",
+  "prompt": "an empty old lecture hall at dusk, rows of wooden benches, tall arched windows glowing with evening light, plain dark walls, a brass stopwatch on a wooden table in the foreground",
   "w": 1024,
   "h": 1024,
-  "seed": 4302,
+  "seed": 9117,
   "look": "night"
  },
  {
