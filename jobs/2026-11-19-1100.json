@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-19-1100/01.jpg",
+  "prompt": "a single empty wooden chair at the end of a long row of chairs in a tall old hall, warm light from high windows, dark walls, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1100/02.jpg",
+  "prompt": "a robed Roman man walking alone up a narrow stone street at dusk, away from a distant crowded amphitheatre glowing with torchlight",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1100/03.jpg",
+  "prompt": "a quiet Roman courtyard at night with a small fountain and a single oil lamp on a stone ledge, stars above",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1100/04.jpg",
+  "prompt": "close view of a dark blackboard with three plain vertical white chalk strokes of different lengths and nothing else on it, an old wooden classroom in shadow, one lamp, no writing, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1100/05.jpg",
+  "prompt": "a long row of tall silhouetted figures standing shoulder to shoulder against a pale evening sky, one smaller figure at the end, seen from far away",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1100/06.jpg",
+  "prompt": "a modern European university town at blue hour, old stone bridge over a river, warm windows, mountains faint in the distance",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1100/07.jpg",
+  "prompt": "a lone lighthouse standing on rocks as a wave breaks around it at dusk, light breaking through storm clouds",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1100/08.jpg",
+  "prompt": "two robed figures talking on stone steps under a portico at night, seen from behind, lamplight, columns, a wide starry sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1100/09.jpg",
+  "prompt": "an old library terrace at night with a long table, scrolls and one oil lamp, a view over a dark sea",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1100/10.jpg",
+  "prompt": "a wide starry sky over ancient ruins on a hill, a path of light leading up to them, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]

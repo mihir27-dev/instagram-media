@@ -1,0 +1,42 @@
+[
+ {
+  "out": "bg/2026-11-19-2100/r01.jpg",
+  "prompt": "an ancient Roman forum at dusk with marble columns and steps, a lone robed figure standing at the top of the steps, wide orange and blue sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-2100/r02.jpg",
+  "prompt": "an ancient Roman courtroom basilica at night lit by torches, rows of empty stone benches, tall columns, deep shadows, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-2100/r03.jpg",
+  "prompt": "a weathered marble statue of a calm robed man with a beard, standing in soft moonlight, plain dark background",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-2100/r04.jpg",
+  "prompt": "an ancient Greek harbour city on the Aegean coast at sunrise, white buildings climbing a hill, ships at anchor, light breaking over the sea",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-2100/r05.jpg",
+  "prompt": "a robed old man seen from behind on a terrace above a wide sunlit bay, a sailing ship leaving the harbour without him, golden evening light",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ }
+]

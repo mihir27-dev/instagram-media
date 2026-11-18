@@ -1,0 +1,42 @@
+[
+ {
+  "out": "bg/2026-11-19-0800/r01.jpg",
+  "prompt": "an empty old lecture hall at dusk, rows of wooden desks with loose papers, tall arched windows glowing with evening light, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-0800/r02.jpg",
+  "prompt": "an old university courtyard at dusk with stone arches and warm lamps, a young woman seen from far behind walking with books under her arm, wide sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-0800/r03.jpg",
+  "prompt": "two wooden doors side by side at the end of a dim stone corridor, warm light glowing under one of them, cinematic night",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-0800/r04.jpg",
+  "prompt": "seen from above, a large pool of warm lamplight on a dark stone floor with a smaller circle of light sitting completely inside it, minimal, abstract",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-0800/r05.jpg",
+  "prompt": "a hundred small glowing paper lanterns floating over a dark calm lake at night, wide view, distant hills, stars",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ }
+]

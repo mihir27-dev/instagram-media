@@ -1,0 +1,74 @@
+[
+ {
+  "out": "bg/2026-11-19-1800/01.jpg",
+  "prompt": "four small glowing lanterns floating in a row above a dark calm sea at night, a vast starry sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1800/02.jpg",
+  "prompt": "an old wooden desk at night with a notebook, a fountain pen and a brass lamp, a tall window with a city skyline from the 1950s outside, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1800/03.jpg",
+  "prompt": "a winding staircase in an old stone tower lit by moonlight from narrow windows, seen from below",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1800/04.jpg",
+  "prompt": "a juggler's hands silhouetted against a huge full moon, four glowing balls in the air above them, plain silhouette",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1800/05.jpg",
+  "prompt": "a single glowing key on a long dark wooden table in a quiet hall, soft golden light falling on it",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1800/06.jpg",
+  "prompt": "a small boat with four glowing lanterns crossing a wide dark lake toward distant mountains at dusk",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1800/07.jpg",
+  "prompt": "a crowd of glowing paper lanterns rising at different heights into a deep blue sky over a quiet town",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1800/08.jpg",
+  "prompt": "a desk by a window at night with a single sheet of paper and a pencil, the city lights below, one warm lamp, no people, no writing visible",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1800/09.jpg",
+  "prompt": "a wide starry sky over a quiet hill town at night, one lit window, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ }
+]

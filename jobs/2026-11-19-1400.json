@@ -1,0 +1,42 @@
+[
+ {
+  "out": "bg/2026-11-19-1400/r01.jpg",
+  "prompt": "a long empty road stretching to the horizon at dusk under a huge sky, a single small walker far away, first stars appearing",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1400/r02.jpg",
+  "prompt": "a vast crowd of tiny people crossing a wide city square seen from high above at blue hour, street lights coming on",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1400/r03.jpg",
+  "prompt": "a forest path at night lit by one lantern, the trodden path behind clear and the path ahead disappearing into soft mist",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1400/r04.jpg",
+  "prompt": "a huge empty concert arena at night with one spotlight on an empty stage and a lone microphone stand",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-19-1400/r05.jpg",
+  "prompt": "a climber halfway up a vast mountain ridge at sunrise, light breaking through clouds, far more mountain still above",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ }
+]
