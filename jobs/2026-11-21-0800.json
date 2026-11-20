@@ -1,0 +1,42 @@
+[
+ {
+  "out": "bg/2026-11-21-0800/r01.jpg",
+  "prompt": "a nineteenth-century scholar's study at night, an oil lamp on a wooden desk with blank paper slips and an open pocket watch, tall bookshelves, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-0800/r02.jpg",
+  "prompt": "an old brass hourglass with sand running beside an open pocket watch on a dark wooden desk, warm lamplight, close view",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-0800/r03.jpg",
+  "prompt": "a steep mountainside of stone steps that drop sharply and then level out into a long gentle valley, dawn light, vast sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-0800/r04.jpg",
+  "prompt": "a canal city at night with tall narrow old houses and warm lit windows reflected in the water, bicycles on a bridge, no people, no signs",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-0800/r05.jpg",
+  "prompt": "light breaking through clouds over a wide calm sea at sunrise, a small lighthouse on a rocky point",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-21-1100/01.jpg",
+  "prompt": "a Roman army camp at night beside a wide dark river, one tent glowing with a single oil lamp inside, distant campfires, a vast starry sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1100/02.jpg",
+  "prompt": "a weathered marble statue of a robed bearded man writing on a wax tablet, soft moonlight, dark background",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1100/03.jpg",
+  "prompt": "an open hand releasing a small glowing paper lantern into a night sky above a quiet river",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1100/04.jpg",
+  "prompt": "an empty university classroom in warm evening light, rows of wooden desks with blank paper and pencils, tall windows, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1100/05.jpg",
+  "prompt": "a forked path in a moonlit forest, one path lit by small lanterns, the other fading into fog",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1100/06.jpg",
+  "prompt": "light breaking through storm clouds over a wide valley, a small village with warm lit windows below",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1100/07.jpg",
+  "prompt": "a crowd of people seen from far behind on a hillside, all facing a sunrise over the sea, wide golden sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1100/08.jpg",
+  "prompt": "an old set of brass scales on a stone ledge at dusk, one pan slightly lower, soft light",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1100/09.jpg",
+  "prompt": "a young man seen from behind sitting on a rooftop at dusk above a warm-lit city, a cup of tea beside him",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1100/10.jpg",
+  "prompt": "a wide starry sky over ancient ruins on a hill, one warm light in the distance, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]

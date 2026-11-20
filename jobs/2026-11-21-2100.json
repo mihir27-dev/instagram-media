@@ -1,0 +1,50 @@
+[
+ {
+  "out": "bg/2026-11-21-2100/r01.jpg",
+  "prompt": "a quiet old university laboratory at night, a steel basin of icy water on a bench beside a thermometer, a single lamp, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-2100/r02.jpg",
+  "prompt": "frost forming on the rim of a metal basin of icy water, cold blue light, ice crystals, close view",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-2100/r03.jpg",
+  "prompt": "a frozen mountain lake at dawn, the first warm sunlight touching the ice, snowy peaks, vast sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-2100/r04.jpg",
+  "prompt": "two trails through a snowy mountain pass at dusk, the longer trail winding down into warm golden sunlight",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-2100/r05.jpg",
+  "prompt": "a climber standing on a summit at sunset after a storm, light breaking through dark clouds",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-2100/r06.jpg",
+  "prompt": "a long road through hills leading to a glowing town at sunset, wide warm sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 305,
+  "look": "night"
+ }
+]

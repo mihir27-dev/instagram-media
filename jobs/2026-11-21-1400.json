@@ -1,0 +1,42 @@
+[
+ {
+  "out": "bg/2026-11-21-1400/r01.jpg",
+  "prompt": "a small ancient Roman house shrine at night, an iron oil lamp glowing beside small clay figurines in a stone niche, warm light",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1400/r02.jpg",
+  "prompt": "an ancient stone doorway at night with the wooden door ajar, moonlight spilling across a stone floor, an empty niche on the wall",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1400/r03.jpg",
+  "prompt": "a plain clay oil lamp burning on a rough wooden table at dawn, light breaking through a small window of an ancient Greek room",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1400/r04.jpg",
+  "prompt": "an ancient Greek hill town at night seen from above, moonlit rooftops and narrow streets, a tiny distant figure running away, vast starry sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1400/r05.jpg",
+  "prompt": "a weathered marble statue of a calm bearded old man in a robe at sunrise, light breaking through clouds behind him, ruins around",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ }
+]

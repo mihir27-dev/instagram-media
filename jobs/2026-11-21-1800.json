@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-21-1800/01.jpg",
+  "prompt": "a vast night sky filled with a glowing nebula above a dark mountain range, a lone climber on a ridge looking up",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1800/02.jpg",
+  "prompt": "a crowded night market seen from high above, hundreds of warm lanterns and tiny glowing lights, motion blur, no readable signs",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1800/03.jpg",
+  "prompt": "a bowl of ripe figs and a dish of honey on a wooden table in warm lamplight, dark background",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1800/04.jpg",
+  "prompt": "a lone traveller standing still at the foot of a long mountain staircase at dusk, mist around the top, not climbing",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1800/05.jpg",
+  "prompt": "a small field mouse on a moonlit stone step looking up at a single sugar cube, soft light, a quiet garden",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1800/06.jpg",
+  "prompt": "fireworks bursting unexpectedly over a quiet dark harbour, reflections on the water, wide sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1800/07.jpg",
+  "prompt": "a calm person seen from far behind sitting on a bench at dawn by a still lake, soft neutral light",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1800/08.jpg",
+  "prompt": "an old naturalist's laboratory at night, a brass microscope and glass jars on a wooden bench, a single lamp, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1800/09.jpg",
+  "prompt": "a young man seen from behind at a tall window at night, city lights below, one hand resting on the windowsill",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-21-1800/10.jpg",
+  "prompt": "a wide starry sky over a quiet hill town at night, one lit window, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]
