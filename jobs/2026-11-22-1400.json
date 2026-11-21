@@ -1,0 +1,50 @@
+[
+ {
+  "out": "bg/2026-11-22-1400/r01.jpg",
+  "prompt": "an ancient Roman merchant ship under full sail on a wide sea at dawn, golden light breaking through clouds",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1400/r02.jpg",
+  "prompt": "a traveller seen from behind standing on a cliff above a foreign harbour, vast sky, distant ships",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1400/r03.jpg",
+  "prompt": "a long stone Roman road stretching across green hills to the horizon, a lone walker with a pack, late afternoon light",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1400/r04.jpg",
+  "prompt": "a traveller with a heavy pack crossing a vast desert of dunes under a huge starry sky, footprints behind him",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1400/r05.jpg",
+  "prompt": "a heavy sack set down beside a mountain path, the walker continuing upward lightly toward a sunrise over a wide valley",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1400/r06.jpg",
+  "prompt": "a sealed scroll and an oil lamp on a stone windowsill, the window open to a starry Mediterranean night and a calm sea",
+  "w": 1024,
+  "h": 1024,
+  "seed": 305,
+  "look": "night"
+ }
+]

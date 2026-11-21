@@ -1,0 +1,50 @@
+[
+ {
+  "out": "bg/2026-11-22-0800/r01.jpg",
+  "prompt": "an ancient Greek city gate at dawn, a broad-shouldered traveller with a small cloth bag walking in, wide sky, warm first light",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-0800/r02.jpg",
+  "prompt": "a moonlit walled garden in ancient Athens, an old stone well with a wooden bucket and rope, olive trees, stars",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-0800/r03.jpg",
+  "prompt": "an ancient open-air court on a rocky hill at sunrise, stone benches, small robed figures seen from far away",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-0800/r04.jpg",
+  "prompt": "oyster shells and a flat pale ox bone on a rough wooden table beside a small oil lamp, warm light, dark background",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-0800/r05.jpg",
+  "prompt": "a strong man seen from behind carrying two heavy clay water jars up a long stone stairway at dusk, light breaking through clouds",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-0800/r06.jpg",
+  "prompt": "a colonnaded ancient Greek stoa at sunrise, tall painted columns, a small group of students sitting on the steps, wide golden sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 305,
+  "look": "night"
+ }
+]

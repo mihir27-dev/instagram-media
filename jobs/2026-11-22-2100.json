@@ -1,0 +1,50 @@
+[
+ {
+  "out": "bg/2026-11-22-2100/r01.jpg",
+  "prompt": "an empty old school gymnasium at night, a single basketball resting on the polished wooden floor under one hanging lamp",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-2100/r02.jpg",
+  "prompt": "basketball players in white shirts passing a ball in an old hallway, heavy motion blur, no faces visible, warm light",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-2100/r03.jpg",
+  "prompt": "a large gorilla standing upright in the misty doorway of an old gymnasium, dramatic backlight, dust in the air",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-2100/r04.jpg",
+  "prompt": "a vast misty forest at dawn, a dark gorilla barely visible among the tall trees, rays of light through the fog",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-2100/r05.jpg",
+  "prompt": "an old observatory with its dome open, a brass telescope pointed at a sky full of stars, one warm lamp, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-2100/r06.jpg",
+  "prompt": "two climbers on a ridge looking out in different directions over a wide valley at sunrise, light breaking through clouds",
+  "w": 1024,
+  "h": 1024,
+  "seed": 305,
+  "look": "night"
+ }
+]

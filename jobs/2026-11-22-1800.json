@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-22-1800/01.jpg",
+  "prompt": "a weathered marble statue of a bearded ancient Greek teacher standing on a cliff above a vast sea at dawn, light breaking through clouds",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1800/02.jpg",
+  "prompt": "an ancient library hall at night, tall shelves of scrolls, moonlight falling through high windows, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1800/03.jpg",
+  "prompt": "a lone figure in a hooded cloak walking quietly through a busy ancient market at dusk, lanterns, warm light",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1800/04.jpg",
+  "prompt": "a long ancient banquet table under an open colonnade at sunset, bread, fruit and oil lamps, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1800/05.jpg",
+  "prompt": "a flock of sheep grazing on a wide green hillside at golden hour, a vast sky, distant mountains",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1800/06.jpg",
+  "prompt": "a shepherd seen from far behind leading his flock home along a stone path at sunrise, light breaking through clouds",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1800/07.jpg",
+  "prompt": "a young man seen from behind quietly helping carry a heavy load up a village street at dawn, warm light, no faces visible",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1800/08.jpg",
+  "prompt": "a calm figure sitting alone on a rock above a stormy sea, waves crashing below, a gap of light in the clouds",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1800/09.jpg",
+  "prompt": "a small stone farmhouse on a hillside at dawn, smoke rising from the chimney, sheep in the field, wide sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1800/10.jpg",
+  "prompt": "a wide starry sky over quiet hills with a resting flock of sheep, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]

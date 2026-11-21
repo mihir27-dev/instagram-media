@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-22-1100/01.jpg",
+  "prompt": "a vast night sky over a dark mountain range, a glowing web of tiny lights like a city seen from space spreading across the clouds, a lone climber on a ridge",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1100/02.jpg",
+  "prompt": "a young man alone at a wooden desk under a single lamp, stacks of old books, a tall window with a starry sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1100/03.jpg",
+  "prompt": "a small glowing lantern held up against an enormous dark cliff face at night, tiny figure, vast scale",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1100/04.jpg",
+  "prompt": "a lighthouse on a rocky island at night, its beam sweeping across a wide dark sea, stars above",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1100/05.jpg",
+  "prompt": "a calm wide river flowing steadily through a valley at dawn, mist on the water, distant hills",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1100/06.jpg",
+  "prompt": "a tiny boat with a single lamp on a vast calm sea under a huge starry sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1100/07.jpg",
+  "prompt": "a great ancient city at night seen from a hilltop, thousands of lit windows and roads glowing like threads, wide sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1100/08.jpg",
+  "prompt": "an old observatory on a hill at night, its dome open to the stars, one warm window, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1100/09.jpg",
+  "prompt": "a lone traveller resting on a stone bench on a mountain path at sunrise, light breaking through clouds over the valley",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-22-1100/10.jpg",
+  "prompt": "a wide starry sky over a quiet hill town at night, one lit window, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]
