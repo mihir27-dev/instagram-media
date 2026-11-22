@@ -49,10 +49,10 @@
  },
  {
   "out": "bg/2026-11-23-1800/07.jpg",
-  "prompt": "a busy old market street at dusk with lanterns, many people seen from far behind, one figure stopping to talk to a vendor",
+  "prompt": "an old cobbled market street at dusk under strings of lanterns, plain cloth awnings without any signs or lettering, people seen from far behind, warm light",
   "w": 1080,
   "h": 1350,
-  "seed": 306,
+  "seed": 377,
   "look": "night"
  },
  {
