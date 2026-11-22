@@ -1,10 +1,10 @@
 [
  {
   "out": "bg/2026-11-23-0800/r01.jpg",
-  "prompt": "a grand ancient Roman senate hall with tall marble columns at dusk, empty stone benches, light falling through high windows, no people",
+  "prompt": "a grand ancient Roman senate hall with tall plain marble columns at dusk, a plain undecorated stone ceiling with no carvings or inscriptions, empty stone benches, light through high windows, no people",
   "w": 1024,
   "h": 1024,
-  "seed": 300,
+  "seed": 381,
   "look": "night"
  },
  {

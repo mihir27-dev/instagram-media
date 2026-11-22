@@ -1,10 +1,10 @@
 [
  {
   "out": "bg/2026-11-23-2100/r01.jpg",
-  "prompt": "four blank old playing cards lying face down on a dark wooden table under a single warm lamp, no symbols, no writing",
+  "prompt": "four smooth plain white stones lying in a row on dark sand under moonlight, nothing carved or written on them, a vast starry sky",
   "w": 1024,
   "h": 1024,
-  "seed": 300,
+  "seed": 383,
   "look": "night"
  },
  {
