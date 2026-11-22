@@ -1,0 +1,50 @@
+[
+ {
+  "out": "bg/2026-11-23-0800/r01.jpg",
+  "prompt": "a grand ancient Roman senate hall with tall marble columns at dusk, empty stone benches, light falling through high windows, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-0800/r02.jpg",
+  "prompt": "an open-air ancient Roman exercise yard beside a long colonnade, a lone athletic figure seen from far behind, dust glowing in warm light",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-0800/r03.jpg",
+  "prompt": "a cloaked messenger seen from far behind climbing the marble steps of an ancient city under a vast stormy sky, light breaking through clouds",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-0800/r04.jpg",
+  "prompt": "an ancient stone road lined with tall cypress trees leading to a hill town at sunset, a lone traveller far away, a wide golden sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-0800/r05.jpg",
+  "prompt": "a simple wooden table with bread, olives and an oil lamp in the courtyard of an ancient villa at dusk, warm light, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-0800/r06.jpg",
+  "prompt": "a lone figure standing calmly on a cliff above a vast green valley at sunrise, light breaking through clouds",
+  "w": 1024,
+  "h": 1024,
+  "seed": 305,
+  "look": "night"
+ }
+]

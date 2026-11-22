@@ -1,0 +1,50 @@
+[
+ {
+  "out": "bg/2026-11-23-2100/r01.jpg",
+  "prompt": "four blank old playing cards lying face down on a dark wooden table under a single warm lamp, no symbols, no writing",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-2100/r02.jpg",
+  "prompt": "a lone figure seen from behind standing before four tall stone doors in a vast cavern, a shaft of light from above",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-2100/r03.jpg",
+  "prompt": "a huge hedge maze seen from high above at golden hour, one small figure near its centre, long shadows",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-2100/r04.jpg",
+  "prompt": "a single tall blank stone slab standing alone in a desert at sunset, a long shadow, a vast sky, no markings",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-2100/r05.jpg",
+  "prompt": "a crowded old tavern at night seen from the doorway, warm lamplight, people as soft silhouettes, no faces visible",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-2100/r06.jpg",
+  "prompt": "a lone climber turning over a large stone on a mountain ridge at sunrise, light breaking through clouds",
+  "w": 1024,
+  "h": 1024,
+  "seed": 305,
+  "look": "night"
+ }
+]

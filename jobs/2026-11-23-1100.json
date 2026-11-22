@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-23-1100/01.jpg",
+  "prompt": "a lone hooded figure standing before a vast stormy sea at dusk, huge waves breaking, distant lightning, light breaking through the clouds",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1100/02.jpg",
+  "prompt": "an old steam locomotive standing at a misty mountain station at dawn, white steam rising into a wide sky, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1100/03.jpg",
+  "prompt": "an old university lecture hall at night, rows of empty wooden desks, one lamp lit, moonlight through tall windows",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1100/04.jpg",
+  "prompt": "an old boxing gym inside a stone warehouse, a single leather punching bag hanging in a shaft of light, dust in the air, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1100/05.jpg",
+  "prompt": "a volcano erupting at night under a vast starry sky, glowing lava rivers, seen from a far ridge",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1100/06.jpg",
+  "prompt": "a calm lake at dawn reflecting snowy mountains, a lone figure sitting still on a wooden jetty, mist on the water",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1100/07.jpg",
+  "prompt": "a vast ancient amphitheatre filled with a crowd at sunset, seen from high above, warm golden light",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1100/08.jpg",
+  "prompt": "young people playing football on a wide beach at golden hour, seen from far away, long shadows, no faces visible",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1100/09.jpg",
+  "prompt": "a lone climber resting on a ridge above a sea of clouds at sunrise, light breaking through",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1100/10.jpg",
+  "prompt": "a wide starry sky over a quiet harbour with small boats at rest, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]

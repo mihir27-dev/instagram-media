@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-23-1800/01.jpg",
+  "prompt": "a lone hooded figure standing at the centre of vast concentric rings of standing stones on a wide plain under a starry sky, seen from high above",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1800/02.jpg",
+  "prompt": "a weathered marble statue of a bearded ancient Greek philosopher in a ruined temple at dawn, light breaking through clouds",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1800/03.jpg",
+  "prompt": "a single lamp glowing in the window of a small stone house at night, a family seen from far behind sitting at a table inside, warm light",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1800/04.jpg",
+  "prompt": "an ancient city of terracotta roofs at sunset seen from a hill, smoke from many chimneys, crowds in distant streets, a wide sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1800/05.jpg",
+  "prompt": "ripples spreading in perfect circles across a still mountain lake at dawn, a lone figure on the shore seen from behind",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1800/06.jpg",
+  "prompt": "a vast field under a starry sky with a ring of small campfires around one central fire, people as tiny silhouettes far away",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1800/07.jpg",
+  "prompt": "a busy old market street at dusk with lanterns, many people seen from far behind, one figure stopping to talk to a vendor",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1800/08.jpg",
+  "prompt": "two figures seen from behind sharing bread on the stone steps of an ancient town at sunset, warm light, no faces visible",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1800/09.jpg",
+  "prompt": "a long stone bridge over a wide river gorge at sunrise, travellers crossing far away, light breaking through clouds",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1800/10.jpg",
+  "prompt": "a wide starry sky over a quiet ancient town with many warm lit windows, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]

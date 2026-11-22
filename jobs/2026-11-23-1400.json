@@ -1,0 +1,50 @@
+[
+ {
+  "out": "bg/2026-11-23-1400/r01.jpg",
+  "prompt": "a long empty highway at night stretching to the horizon under a vast starry sky, distant car lights",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1400/r02.jpg",
+  "prompt": "an old university classroom at dusk, rows of wooden chairs facing tall windows, warm light, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1400/r03.jpg",
+  "prompt": "a winding mountain road with streams of car headlights at twilight, seen from high above, a wide sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1400/r04.jpg",
+  "prompt": "a snowy road through a pine forest at dawn, a single car far away, soft golden light through the trees",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1400/r05.jpg",
+  "prompt": "a huge ancient library with endless shelves of books, beams of light from a domed ceiling, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-23-1400/r06.jpg",
+  "prompt": "two travellers seen from far behind sitting on the bonnet of an old car on a cliff road at sunrise, light breaking through clouds",
+  "w": 1024,
+  "h": 1024,
+  "seed": 305,
+  "look": "night"
+ }
+]
