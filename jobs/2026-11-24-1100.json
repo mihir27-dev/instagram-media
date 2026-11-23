@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-24-1100/01.jpg",
+  "prompt": "a weathered marble statue of a bearded ancient philosopher standing in a sunlit ruined colonnade, wide sky, light breaking through clouds",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1100/02.jpg",
+  "prompt": "an old leather-bound book lying open on a stone ledge beside a small oil lamp, warm light, dark background, no readable text",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1100/03.jpg",
+  "prompt": "a lone hooded scholar seen from behind at a long wooden table in a vast candlelit library, tall shelves rising into darkness",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1100/04.jpg",
+  "prompt": "a colonnaded ancient Greek stoa at sunrise, tall painted columns, small figures gathered on the steps, wide golden sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1100/05.jpg",
+  "prompt": "an ancient Athenian marketplace at dawn, an old man in a plain cloak and a young man seen from far behind, stone steps, long shadows",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1100/06.jpg",
+  "prompt": "a quiet ancient courtyard with a single olive tree and a stone bench at dusk, warm light on the walls, stars appearing",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1100/07.jpg",
+  "prompt": "rows of rolled papyrus scrolls on wooden shelves in an ancient library, a shaft of sunlight with floating dust, no readable text",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1100/08.jpg",
+  "prompt": "a lone figure sitting on a cliff edge listening to a vast stormy sea below, light breaking through clouds on the horizon, seen from behind",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1100/09.jpg",
+  "prompt": "two small figures seen from far behind sitting on ancient stone steps facing a wide valley at sunset, warm light, no faces visible",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1100/10.jpg",
+  "prompt": "a wide starry sky over a quiet ancient town with many warm lit windows, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]

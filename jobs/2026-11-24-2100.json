@@ -1,0 +1,50 @@
+[
+ {
+  "out": "bg/2026-11-24-2100/r01.jpg",
+  "prompt": "a Roman villa terrace at dusk overlooking the sea, a writing table with a wax tablet and a stylus, warm lamp, wide sky, no people, no readable text",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-2100/r02.jpg",
+  "prompt": "an ancient Roman library with countless scrolls stacked in wooden cubbies, a shaft of light falling on a single open scroll, no readable text",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-2100/r03.jpg",
+  "prompt": "a Roman road stretching across rolling hills to the horizon at sunrise, a lone traveller with a staff far away, wide golden sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-2100/r04.jpg",
+  "prompt": "a young olive tree in a terracotta pot beside a deep-rooted ancient olive tree in a Mediterranean garden at golden hour",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-2100/r05.jpg",
+  "prompt": "a single scroll and a small oil lamp on a stone windowsill, a vast starry sky over a quiet Roman town beyond, no readable text",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-2100/r06.jpg",
+  "prompt": "a lone figure seen from behind sitting under a great old tree on a hill at dawn reading one scroll, light breaking through clouds, wide valley",
+  "w": 1024,
+  "h": 1024,
+  "seed": 305,
+  "look": "night"
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-24-1800/01.jpg",
+  "prompt": "a tall open doorway in an old stone house at night, warm lamplight spilling from the next room into a dark hall, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1800/02.jpg",
+  "prompt": "a long corridor of an ancient palace with a row of arched doorways receding into soft light, a lone figure walking far away, seen from behind",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1800/03.jpg",
+  "prompt": "a vast maze of connected stone rooms seen from high above at dusk, warm light in a few doorways, tiny figure crossing a threshold",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1800/04.jpg",
+  "prompt": "a single wooden table with one small object on it in an empty candlelit room, an open doorway behind it leading into darkness",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1800/05.jpg",
+  "prompt": "a lone hooded figure stepping through a great stone archway from a dark valley into a sunlit one, wide sky, light breaking through",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1800/06.jpg",
+  "prompt": "a winding stone stairway inside an ancient tower turning back on itself, lit by a single high window, soft blue night light",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1800/07.jpg",
+  "prompt": "a misty open plain at dawn with a lone freestanding stone doorframe, no walls around it, wide pale sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1800/08.jpg",
+  "prompt": "a lone figure carrying a tall stack of scrolls through a doorway in an ancient library at night, warm lamplight, seen from behind",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1800/09.jpg",
+  "prompt": "a small oil lamp held up in an open doorway at the edge of a dark courtyard, stars above, warm glow on old stone",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-24-1800/10.jpg",
+  "prompt": "a wide starry sky over a quiet ancient town with many warm lit windows and open doorways, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]
