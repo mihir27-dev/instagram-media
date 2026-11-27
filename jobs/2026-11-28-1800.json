@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-28-1800/01.jpg",
+  "prompt": "a lone figure seen from behind standing before a small hand-built wooden cabin on a cliff at sunrise, wide sky, light breaking through clouds",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1800/02.jpg",
+  "prompt": "a plain handmade wooden shelf with a few old books and a small lamp in a quiet stone room at night, warm light, no readable text",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1800/03.jpg",
+  "prompt": "a long wooden workbench in a vast old workshop lit by tall windows, simple tools laid out neatly, no people, no logos",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1800/04.jpg",
+  "prompt": "a plain dark wooden box sitting alone on a stone table in a shaft of warm light, dark background, no logos, no text",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1800/05.jpg",
+  "prompt": "a small folded paper crane on a weathered wooden table beside an oil lamp at night, soft glow, dark background",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1800/06.jpg",
+  "prompt": "a row of delicate folded paper cranes on a long stone ledge at sunrise, one smaller and crooked at the end, wide sky beyond",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1800/07.jpg",
+  "prompt": "a half-built stone archway left unfinished on a misty hillside at dawn, loose stones on the grass, wide pale sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1800/08.jpg",
+  "prompt": "two small figures seen from far behind carrying planks up a hill towards a half-built wooden house at golden hour, vast sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1800/09.jpg",
+  "prompt": "a lone figure holding up a small lantern to show a handmade wooden boat on a quiet beach at night, stars above, seen from behind",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1800/10.jpg",
+  "prompt": "a wide starry sky over a quiet village of small handmade wooden houses with warm lit windows, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]

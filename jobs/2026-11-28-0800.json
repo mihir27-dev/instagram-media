@@ -1,0 +1,50 @@
+[
+ {
+  "out": "bg/2026-11-28-0800/r01.jpg",
+  "prompt": "an old leather punching bag hanging in an empty stone gymnasium lit by a single high window, dust drifting in the light, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-0800/r02.jpg",
+  "prompt": "a single crumpled sheet of paper on a dark wooden desk beside a small oil lamp at night, no readable text",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-0800/r03.jpg",
+  "prompt": "three stone paths splitting from one point across a wide misty valley at dawn, light breaking through clouds, tiny lone figure at the fork",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-0800/r04.jpg",
+  "prompt": "storm clouds and lightning over a dark sea, waves crashing on black rocks, dramatic wide sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-0800/r05.jpg",
+  "prompt": "a calm mountain lake at sunrise reflecting the peaks, mist lifting off the water, a lone figure seated on the shore seen from behind",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-0800/r06.jpg",
+  "prompt": "an old leather punching bag hanging still in an empty stone gymnasium filled with warm morning light, open doorway to a green garden, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 305,
+  "look": "night"
+ }
+]

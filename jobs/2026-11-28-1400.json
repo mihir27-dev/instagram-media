@@ -1,0 +1,42 @@
+[
+ {
+  "out": "bg/2026-11-28-1400/r01.jpg",
+  "prompt": "a single wooden pencil lying on a stack of blank paper on an old writing desk at night, warm lamplight, dark room, no readable text",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1400/r02.jpg",
+  "prompt": "a weathered marble statue of an ancient theatre mask with a smiling mouth on a stone pedestal in a sunlit ruined courtyard, wide sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1400/r03.jpg",
+  "prompt": "many old university buildings with warm lit windows across a wide city at dusk seen from a hill, vast sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1400/r04.jpg",
+  "prompt": "a huge ancient stone amphitheatre filled with tiny figures seen from far above at golden hour, light breaking through clouds",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-28-1400/r05.jpg",
+  "prompt": "sunrise breaking through clouds over a wide calm sea, a lone figure standing on a rocky shore with arms open, seen from behind",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ }
+]
