@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-29-1100/01.jpg",
+  "prompt": "a weathered marble statue of a bearded robed man holding a small writing tablet, standing in a ruined colonnade at sunrise, wide sky, light breaking through clouds",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1100/02.jpg",
+  "prompt": "an ancient army camp of tents on a wide plain at dusk, a single lamp glowing inside one tent, vast sky with first stars",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1100/03.jpg",
+  "prompt": "an old stone villa courtyard with a fig tree and a bench in soft morning light, no people, wide pale sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1100/04.jpg",
+  "prompt": "a quiet ancient garden with olive trees and a small stone fountain at golden hour, a single oil lamp on a ledge, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1100/05.jpg",
+  "prompt": "a lone hooded figure seen from behind climbing a long stone stairway up a mountain at dawn, mist below, light breaking through",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1100/06.jpg",
+  "prompt": "a lighthouse of ancient stone on a rocky headland holding steady in a storm at night, waves breaking, a beam of light across the sea",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1100/07.jpg",
+  "prompt": "a straight ancient Roman road running across a vast plain toward distant mountains at sunrise, a lone traveller far ahead",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1100/08.jpg",
+  "prompt": "a ruined temple of marble columns on a hilltop under a vast golden sky, birds in flight, light breaking through clouds",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1100/09.jpg",
+  "prompt": "a simple wooden writing desk with a blank scroll, a reed pen and a single lamp beside an open window onto a starry sky, no readable text",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1100/10.jpg",
+  "prompt": "a wide starry sky over a quiet hill town with warm lit windows and a winding path, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]

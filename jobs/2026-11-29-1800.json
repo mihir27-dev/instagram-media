@@ -1,0 +1,82 @@
+[
+ {
+  "out": "bg/2026-11-29-1800/01.jpg",
+  "prompt": "a vast ancient stone amphitheatre under a starry sky at dusk, rows of empty seats rising in a curve, a single lamp on the stage",
+  "w": 1080,
+  "h": 1350,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1800/02.jpg",
+  "prompt": "a long stone staircase seen from the bottom, rising into clouds lit gold by the sunrise, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1800/03.jpg",
+  "prompt": "an old empty schoolroom with wooden desks and a large blank dark board, tall windows with evening light, no readable text, no people",
+  "w": 1080,
+  "h": 1350,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1800/04.jpg",
+  "prompt": "two stone towers of very different heights standing side by side on a wide plain at sunset, long shadows, vast sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1800/05.jpg",
+  "prompt": "a towering mountain peak rising far above the clouds at dawn, a tiny lone climber on a ridge far below, light breaking through",
+  "w": 1080,
+  "h": 1350,
+  "seed": 304,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1800/06.jpg",
+  "prompt": "a wooden ship held by its anchor chain in a calm bay at twilight, the chain disappearing into clear water, stars appearing above",
+  "w": 1080,
+  "h": 1350,
+  "seed": 305,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1800/07.jpg",
+  "prompt": "a large old wooden wheel standing in an empty fairground square at night under strings of warm lights, no people, no text",
+  "w": 1080,
+  "h": 1350,
+  "seed": 306,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1800/08.jpg",
+  "prompt": "many small lanterns glowing in the windows of a hillside town at night, seen from across a valley, vast starry sky",
+  "w": 1080,
+  "h": 1350,
+  "seed": 307,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1800/09.jpg",
+  "prompt": "a lone figure seen from behind standing on a cliff edge at sunrise, holding a small lantern, a wide sea of clouds below",
+  "w": 1080,
+  "h": 1350,
+  "seed": 308,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-1800/10.jpg",
+  "prompt": "a wide starry sky over a calm sea with a small sailing ship under way toward the dawn on the horizon, full bleed scene, no border, no frame",
+  "w": 1080,
+  "h": 1350,
+  "seed": 309,
+  "look": "night"
+ }
+]

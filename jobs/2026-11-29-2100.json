@@ -1,0 +1,42 @@
+[
+ {
+  "out": "bg/2026-11-29-2100/r01.jpg",
+  "prompt": "a deep cutting being dug through a rocky ridge between two seas at dawn, ancient wooden scaffolds and ropes, tiny distant figures with spades, wide sky with light breaking through clouds",
+  "w": 1024,
+  "h": 1024,
+  "seed": 300,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-2100/r02.jpg",
+  "prompt": "a narrow strip of land between two shining seas seen from a high hill at sunrise, an ancient Greek coast, vast sky",
+  "w": 1024,
+  "h": 1024,
+  "seed": 301,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-2100/r03.jpg",
+  "prompt": "a robed bearded man seen from behind driving a spade into rocky earth in a vast quarry, heavy iron chain at his ankles, golden morning light",
+  "w": 1024,
+  "h": 1024,
+  "seed": 302,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-2100/r04.jpg",
+  "prompt": "an ornate golden lyre lying abandoned on the marble steps of an empty ancient theatre at night, torchlight, deep shadows, no people",
+  "w": 1024,
+  "h": 1024,
+  "seed": 303,
+  "look": "night"
+ },
+ {
+  "out": "bg/2026-11-29-2100/r05.jpg",
+  "prompt": "a lone figure standing on a high rocky ridge above two seas at sunset holding a spade upright, wide golden sky, light breaking through clouds",
+  "w": 1024,
+  "h": 1024,
+  "seed": 304,
+  "look": "night"
+ }
+]
